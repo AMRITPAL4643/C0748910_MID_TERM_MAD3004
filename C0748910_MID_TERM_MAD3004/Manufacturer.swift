@@ -7,3 +7,8 @@
 //
 
 import Foundation
+class Manufacturer
+{
+    var manufacturerID: Int!
+    var manufacturerName: String!
+}

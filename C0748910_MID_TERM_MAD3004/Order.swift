@@ -7,3 +7,10 @@
 //
 
 import Foundation
+class Order
+{
+    var orderID: Int!
+    var orderDate: Date!
+    var productArray = [String]()
+    var orderTotal: Int!
+}
