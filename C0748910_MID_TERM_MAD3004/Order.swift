@@ -9,8 +9,16 @@
 import Foundation
 class Order
 {
-    var orderID: Int!
+    var orderID: String!
     var orderDate: Date!
     var productArray = [String]()
     var orderTotal: Int!
+    init()
+    {
+        self.orderID = String()
+        self.orderDate = Date()
+        self.productArray = [String]()
+        self.orderTotal = Int()
+    }
 }
+
