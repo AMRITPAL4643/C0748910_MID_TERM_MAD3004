@@ -38,5 +38,6 @@ class Product:Manufacturer
         print("Product Price: \(self.price)")
         print("Product Quantity: \(self.quantity)\n")
     }
+    
 }
 
