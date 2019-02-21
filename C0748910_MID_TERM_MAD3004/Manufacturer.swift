@@ -7,8 +7,25 @@
 //
 
 import Foundation
-class Manufacturer
+
+    
+
+class Manufacturer:IDisplay
 {
-    var manufacturerID: Int!
+    func display()
+    {
+        
+    }
+    
+    var manufacturerID: String!
     var manufacturerName: String!
+    init()
+    {
+        self.manufacturerID = String()
+        self.manufacturerName = String()
+    }
+}
+func displaydata()
+{
+    
 }
