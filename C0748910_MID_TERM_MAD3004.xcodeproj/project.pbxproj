@@ -12,6 +12,7 @@
 		9B8D8314221E1B5D0094C690 /* Manufacturer.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9B8D8313221E1B5D0094C690 /* Manufacturer.swift */; };
 		9B8D8316221E1B7F0094C690 /* Product.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9B8D8315221E1B7F0094C690 /* Product.swift */; };
 		9B8D8318221E1B960094C690 /* Order.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9B8D8317221E1B960094C690 /* Order.swift */; };
+		9B8D831A221E24750094C690 /* Extension.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9B8D8319221E24750094C690 /* Extension.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -33,6 +34,7 @@
 		9B8D8313221E1B5D0094C690 /* Manufacturer.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Manufacturer.swift; sourceTree = "<group>"; };
 		9B8D8315221E1B7F0094C690 /* Product.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Product.swift; sourceTree = "<group>"; };
 		9B8D8317221E1B960094C690 /* Order.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Order.swift; sourceTree = "<group>"; };
+		9B8D8319221E24750094C690 /* Extension.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Extension.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -70,6 +72,7 @@
 				9B8D8313221E1B5D0094C690 /* Manufacturer.swift */,
 				9B8D8315221E1B7F0094C690 /* Product.swift */,
 				9B8D8317221E1B960094C690 /* Order.swift */,
+				9B8D8319221E24750094C690 /* Extension.swift */,
 			);
 			path = C0748910_MID_TERM_MAD3004;
 			sourceTree = "<group>";
@@ -134,6 +137,7 @@
 				9B8D8312221E1B320094C690 /* IDisplay.swift in Sources */,
 				9B8D8316221E1B7F0094C690 /* Product.swift in Sources */,
 				9B8D8318221E1B960094C690 /* Order.swift in Sources */,
+				9B8D831A221E24750094C690 /* Extension.swift in Sources */,
 				9B8D830B221E1A700094C690 /* main.swift in Sources */,
 				9B8D8314221E1B5D0094C690 /* Manufacturer.swift in Sources */,
 			);
